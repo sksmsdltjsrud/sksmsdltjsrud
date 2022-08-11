@@ -89,4 +89,4 @@ Here are some ideas to get you started:
  </p>
  
  <img src="https://img.shields.io/badge/이선경-000000?style=Pug&logo=Pug&logoColor=#A86454">
- <img src="https://img.shields.io/badge/이선경-000000?style=flat-square&logo=badge&logoColor=#A86454">
+ <img src="https://img.shields.io/badge/이선경-000000?style=badge&logo=Pug&logoColor=#A86454">
