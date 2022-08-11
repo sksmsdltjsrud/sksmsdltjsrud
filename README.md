@@ -100,4 +100,5 @@ Here are some ideas to get you started:
  
  <!-- 깃허브 상태(스탯-step) 등록하기 -->
  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmsdltjsrud&show_icons=true&theme=radical) -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmsdltjsrud&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmsdltjsrud&show_icons=true&theme=synthwave)
+ <!-- theme 바꾸기 - dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
