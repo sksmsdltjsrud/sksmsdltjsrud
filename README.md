@@ -88,5 +88,12 @@ Here are some ideas to get you started:
   </a>
  </p>
  
- <img src="https://img.shields.io/badge/이선경-000000?style=Pug&logo=Pug&logoColor=#A86454">
- <img src="https://img.shields.io/badge/이선경-000000?style=badge&logo=Pug&logoColor=#A86454">
+ <!-- <img src="https://img.shields.io/badge/이선경-000000?style=Pug&logo=Pug&logoColor=A86454"> -->
+ 
+ <img src="https://img.shields.io/badge/이선경-000000?style=badge&logo=Pug&logoColor=A86454">
+ <img src="https://img.shields.io/badge/이선경-000000?style=for-the-badge&logo=Pug&logoColor=A5CD39">
+ <img src="https://img.shields.io/badge/이선경-000000?style=plastic&logo=Pug&logoColor=A5CD39">
+ <img src="https://img.shields.io/badge/이선경-000000?style=flat&logo=Pug&logoColor=A5CD39">
+ <img src="https://img.shields.io/badge/이선경-000000?style=flat-square&logo=Pug&logoColor=A5CD39">
+ <img src="https://img.shields.io/badge/이선경-000000?style=flat-social&logo=Pug&logoColor=A5CD39">
+ <img src="https://img.shields.io/badge/이선경-000000?style=button&logo=Pug&logoColor=A5CD39">
