@@ -81,3 +81,9 @@ Here are some ideas to get you started:
  <p><a href="http://www.naver.com">네이버</a></p>
  <p><a href="http://www.daum.net">다음</a></p>
  <p><a href="http://blog.naver.com/tjsrud3456">선경이</a></p>
+ 
+ <p>
+  <a href="http://blog.naver.com/tjsrud3456">
+   <img src="http://49.142.157.251:9090/javagreenS_lsk/trip/202274114348162_IEEH8343.JPG/" />
+  </a>
+ </p>
