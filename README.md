@@ -95,5 +95,5 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/이선경-000000?style=plastic&logo=Pug&logoColor=A5CD39">
  <img src="https://img.shields.io/badge/이선경-000000?style=flat&logo=Pug&logoColor=A5CD39">
  <img src="https://img.shields.io/badge/이선경-000000?style=flat-square&logo=Pug&logoColor=A5CD39">
- <img src="https://img.shields.io/badge/이선경-000000?style=flat-social&logo=Pug&logoColor=A5CD39">
+ <img src="https://img.shields.io/badge/이선경-000000?style=social&logo=Pug&logoColor=A5CD39">
  <img src="https://img.shields.io/badge/이선경-000000?style=button&logo=Pug&logoColor=A5CD39">
