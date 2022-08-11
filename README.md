@@ -88,6 +88,7 @@ Here are some ideas to get you started:
   </a>
  </p>
  
+ <!-- 뱃지 등록하기 -->
  <!-- <img src="https://img.shields.io/badge/이선경-000000?style=Pug&logo=Pug&logoColor=A86454"> -->
  
  <img src="https://img.shields.io/badge/이선경-000000?style=badge&logo=Pug&logoColor=A86454">
@@ -96,4 +97,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/이선경-000000?style=flat&logo=Pug&logoColor=A5CD39">
  <img src="https://img.shields.io/badge/이선경-000000?style=flat-square&logo=Pug&logoColor=A5CD39">
  <img src="https://img.shields.io/badge/이선경-000000?style=social&logo=Pug&logoColor=A5CD39">
- <img src="https://img.shields.io/badge/이선경-000000?style=button&logo=Pug&logoColor=A5CD39">
+ 
+ <!-- 깃허브 상태(스탯-step) 등록하기 -->
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmsdltjsrud&show_icons=true&theme=radical) -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmsdltjsrud&show_icons=true&theme=radical)
